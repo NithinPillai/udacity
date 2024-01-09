@@ -1,1 +1,1 @@
-aws s3 cp --recursive --acl public-read ./build s3://nithinsbucket2/
+aws s3 cp --recursive public-read ./build s3://nithinsbucket2/
